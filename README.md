@@ -10,17 +10,17 @@ The user can also delete any email. (Home screen should update the list instantl
 
 ### Points distribution -
 
-- Email List page (15 points)
-- Email Description page (15 points)
-- Email create page (10 points)
-- Navigation between screens (10 points)
-- Delete email (5 points)
-- Implementation of email sending (10 points)
-- Implementaion of search bar (15 points)
-- Use images in app (10 points)
+- Email List page (30 points)
+- Email Description page (30 points)
+- Email create page (20 points)
+- Navigation between screens (20 points)
+- Delete email (10 points)
+- Implementation of email sending (20 points)
+- Implementaion of search bar (30 points)
+- Use images in app (20 points)
 
 ### Bonus points -
 
-- Delete email with swipe gesture (10 points)
-- Design, smoothness and innovation (15 points)
-- Use of local database to store email's content so that any new email will persist in every run of app (30 points)
+- Delete email with swipe gesture (20 points)
+- Design, smoothness and innovation (30 points)
+- Use of local database to store email's content so that any new email will persist in every run of app (60 points)
