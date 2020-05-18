@@ -24,3 +24,12 @@ The user can also delete any email. (Home screen should update the list instantl
 - Delete email with swipe gesture (20 points)
 - Design, smoothness and innovation (30 points)
 - Use of local database to store email's content so that any new email will persist in every run of app (60 points)
+
+# Submission Instructions:
+
+A sample app has already been created for you using `flutter create gmailapp`.
+- So, just fork the repository.
+- Complete the task by making the required changes in the files.
+- When done, commit your work locally and push it to your origin (forked repository).
+- Make a pull request to our repository, mentioning all the features that you have implemented in the app.
+- Let us review your pull request.
