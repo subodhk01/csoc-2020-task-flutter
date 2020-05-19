@@ -24,3 +24,6 @@ The user can also delete any email. (Home screen should update the list instantl
 - Delete email with swipe gesture (20 points)
 - Design, smoothness and innovation (30 points)
 - Use of local database to store email's content so that any new email will persist in every run of app (60 points)
+
+## Deadline
+You'll have a week to complete this task. Hence, the deadline of this task is Tuesday May 26th at 11:59 PM.
